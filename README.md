@@ -1,6 +1,8 @@
 # ☕ Java Fundamentals
 
-Welcome to my Java development playground! 🚀 This repository is a dedicated space where I practice core programming concepts, object-oriented design patterns, and logic building to prepare for my upcoming undergraduate studies in Computer Networks.
+Welcome to my Java development playground! 
+
+🚀 This repository is a dedicated space where I practice core programming concepts, object-oriented design patterns, and logic building to prepare for my upcoming undergraduate studies in Computer Networks.
 
 ---
 
