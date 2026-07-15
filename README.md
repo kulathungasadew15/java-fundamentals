@@ -11,7 +11,7 @@ Welcome to my Java development playground!
 The goal of this repository is to establish a rock-solid foundation in **Java Programming** before university lectures officially begin. It tracks my progress from writing fundamental syntax to solving complex programming logic. 
 
 * **Language:** Java (JDK 17/21)
-* **Environment:** Visual Studio Code / IntelliJ IDEA
+* **Environment:** Visual Studio Code / IntelliJ IDEA / Notepad ++
 * **Version Control:** Managed fully via Git CLI / Terminal
 
 ---
